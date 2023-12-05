@@ -60,6 +60,7 @@ Dependencies:
 Important Note:
 
 - Ensure the OpenAI library version is 0.28.0. Compatibility with other versions is not guaranteed.
+- note that quiz_app_submit.py is a prototype and have issue with submitting the user answers
 
 Customization:
 
